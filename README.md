@@ -33,7 +33,6 @@ Hi! I'm David, a hands-on full-stack developer who enjoys turning problems into 
       <li>🧩 Modular & customizable</li>
       <li>⚡ Optimized rendering for large datasets</li>
     </ul>
-    🔗 <a href="https://github.com/alexdev/react-datepicker">GitHub Repo</a> | <a href="https://react-datepicker-demo.vercel.app">Live Demo</a>
   </td>
   <td width="50%">
     <h3>🧠 Smart useForm Hook</h3>
@@ -42,7 +41,6 @@ Hi! I'm David, a hands-on full-stack developer who enjoys turning problems into 
       <li>✔️ Built with TypeScript</li>
       <li>✅ Integrated with Yup & Zod</li>
     </ul>
-    🔗 <a href="https://github.com/alexdev/useform-hook">GitHub Repo</a>
   </td>
 </tr>
 <tr>
@@ -53,7 +51,6 @@ Hi! I'm David, a hands-on full-stack developer who enjoys turning problems into 
       <li>✨ Procedural shapes & color play</li>
       <li>🧪 Experiments in motion & sound</li>
     </ul>
-    🔗 <a href="https://github.com/alexdev/p5-sketches">GitHub Repo</a> | <a href="https://alexsketch.netlify.app">Live Demo</a>
   </td>
   <td width="50%">
     <h3>📋 Jest Test Utilities</h3>
@@ -62,7 +59,6 @@ Hi! I'm David, a hands-on full-stack developer who enjoys turning problems into 
       <li>🧪 Controller, service, unit test templates</li>
       <li>🧼 Snapshot testing for components</li>
     </ul>
-    🔗 <a href="https://github.com/alexdev/test-utils">GitHub Repo</a>
   </td>
 </tr>
 </table>
